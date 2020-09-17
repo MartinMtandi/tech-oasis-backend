@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ShumbaDeveloper-04\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ShumbaDeveloper-04\\.nuget\\packages"
+    ]
+  }
+}
